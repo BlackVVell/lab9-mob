@@ -1,0 +1,9 @@
+com/example/android/localetext3/BuildConfig.java
+ com.example.android.localetext3.BuildConfig
+com/example/android/localetext3/HelpActivity.java
+ com.example.android.localetext3.HelpActivity
+ com.example.android.localetext3.HelpActivity$1
+com/example/android/localetext3/MainActivity.java
+ com.example.android.localetext3.MainActivity
+ com.example.android.localetext3.MainActivity$1
+ com.example.android.localetext3.MainActivity$2
