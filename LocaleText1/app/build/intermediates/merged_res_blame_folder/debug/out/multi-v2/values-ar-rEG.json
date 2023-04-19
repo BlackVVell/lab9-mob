@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\BlackWell\\Documents\\Android\\LocaleText1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar-rEG\\values-ar-rEG.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\BlackWell\\Documents\\Android\\LocaleText1\\app\\src\\main\\res\\values-ar-rEG\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "104,57,151,430,520",
+                        "endColumns": "45,45,277,88,50",
+                        "endOffsets": "145,98,424,514,566"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,101,147,425,514",
+                        "endColumns": "45,45,277,88,50",
+                        "endOffsets": "96,142,420,509,560"
+                    }
+                }
+            ]
+        }
+    ]
+}

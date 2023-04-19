@@ -1,0 +1,8 @@
+com/example/android/localetext1/BuildConfig.java
+ com.example.android.localetext1.BuildConfig
+com/example/android/localetext1/HelpActivity.java
+ com.example.android.localetext1.HelpActivity
+ com.example.android.localetext1.HelpActivity$1
+com/example/android/localetext1/MainActivity.java
+ com.example.android.localetext1.MainActivity
+ com.example.android.localetext1.MainActivity$1

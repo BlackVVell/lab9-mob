@@ -1,0 +1,4 @@
+#Tue Apr 18 13:09:30 EEST 2023
+base.0=C\:\\Users\\BlackWell\\Documents\\Android\\LocaleText1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

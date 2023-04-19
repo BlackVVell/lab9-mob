@@ -1,0 +1,41 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\BlackWell\\Documents\\Android\\LocaleText1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\BlackWell\\Documents\\Android\\LocaleText1\\app\\src\\main\\res\\values-ar\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "104,57,151,430,520",
+                        "endColumns": "45,45,277,88,50",
+                        "endOffsets": "145,98,424,514,566"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1982,2028,2074,2352,2441",
+                        "endColumns": "45,45,277,88,50",
+                        "endOffsets": "2023,2069,2347,2436,2487"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\BlackWell\\.gradle\\caches\\transforms-2\\files-2.1\\d5a7471d3c55fcbb2a793f49551e3314\\appcompat-v7-26.1.0\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,26,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,280,403,507,616,698,799,913,992,1071,1150,1255,1356,1452,1560,1663,1766,1885,2492,2573",
+                        "endColumns": "116,107,122,103,108,81,100,113,78,78,78,104,100,95,107,102,102,118,96,80,100",
+                        "endOffsets": "167,275,398,502,611,693,794,908,987,1066,1145,1250,1351,1447,1555,1658,1761,1880,1977,2568,2669"
+                    }
+                }
+            ]
+        }
+    ]
+}
